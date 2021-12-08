@@ -1,4 +1,3 @@
-# Change these first
 owner: Catacloud
 repo: statuspage
 
@@ -14,10 +13,10 @@ sites:
 
 status-website:
   cname: status.catacloud.com
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Catacloud Statuspage
-  introTitle: "Catacloud statuspage"
+  logoUrl: https://app.catacloud.com/media/favicon/mstile-70x70.png
+  faviconSvg: https://app.catacloud.com/media/favicon/safari-pinned-tab.svg
+  favicon: https://app.catacloud.com/media/favicon/favicon-32x32.png
+  name: Catacloud
+  logoHref: https://wakatime.com
+  introTitle: Catacloud status
   introMessage: This is a statuspage for Catacloud services
-
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
