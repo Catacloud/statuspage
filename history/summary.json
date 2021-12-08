@@ -41,19 +41,17 @@
     "icon": "https://favicons.githubusercontent.com/login.catacloud.com",
     "slug": "identity-server",
     "status": "up",
-    "uptime": "2.21%",
-    "uptimeDay": "2.21%",
-    "uptimeWeek": "2.21%",
-    "uptimeMonth": "2.21%",
-    "uptimeYear": "2.21%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 415,
     "timeDay": 415,
     "timeWeek": 415,
     "timeMonth": 415,
     "timeYear": 415,
-    "dailyMinutesDown": {
-      "2021-12-08": 3
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "GraphQL API",
