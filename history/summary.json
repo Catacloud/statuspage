@@ -40,18 +40,20 @@
     "url": "https://login.catacloud.com/.well-known/openid-configuration",
     "icon": "https://favicons.githubusercontent.com/login.catacloud.com",
     "slug": "identity-server",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 381,
-    "timeDay": 351,
-    "timeWeek": 360,
-    "timeMonth": 381,
-    "timeYear": 381,
-    "dailyMinutesDown": {}
+    "time": 384,
+    "timeDay": 396,
+    "timeWeek": 371,
+    "timeMonth": 384,
+    "timeYear": 384,
+    "dailyMinutesDown": {
+      "2021-12-23": 0
+    }
   },
   {
     "name": "GraphQL API",
