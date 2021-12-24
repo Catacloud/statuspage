@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1006,
-    "timeDay": 775,
-    "timeWeek": 835,
-    "timeMonth": 1006,
-    "timeYear": 1006,
+    "time": 1004,
+    "timeDay": 961,
+    "timeWeek": 862,
+    "timeMonth": 1004,
+    "timeYear": 1004,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 272,
-    "timeDay": 225,
-    "timeWeek": 242,
-    "timeMonth": 272,
-    "timeYear": 272,
+    "time": 273,
+    "timeDay": 292,
+    "timeWeek": 250,
+    "timeMonth": 273,
+    "timeYear": 273,
     "dailyMinutesDown": {}
   },
   {
@@ -41,18 +41,19 @@
     "icon": "https://favicons.githubusercontent.com/login.catacloud.com",
     "slug": "identity-server",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 384,
-    "timeDay": 396,
-    "timeWeek": 371,
-    "timeMonth": 384,
-    "timeYear": 384,
+    "uptime": "98.68%",
+    "uptimeDay": "79.99%",
+    "uptimeWeek": "97.14%",
+    "uptimeMonth": "98.68%",
+    "uptimeYear": "98.68%",
+    "time": 386,
+    "timeDay": 443,
+    "timeWeek": 384,
+    "timeMonth": 386,
+    "timeYear": 386,
     "dailyMinutesDown": {
-      "2021-12-23": 0
+      "2021-12-24": 14,
+      "2021-12-23": 274
     }
   },
   {
@@ -66,11 +67,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 394,
-    "timeDay": 361,
-    "timeWeek": 379,
-    "timeMonth": 394,
-    "timeYear": 394,
+    "time": 396,
+    "timeDay": 453,
+    "timeWeek": 391,
+    "timeMonth": 396,
+    "timeYear": 396,
     "dailyMinutesDown": {}
   }
 ]
