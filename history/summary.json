@@ -41,14 +41,14 @@
     "icon": "https://favicons.githubusercontent.com/login.catacloud.com",
     "slug": "identity-server",
     "status": "up",
-    "uptime": "70.07%",
-    "uptimeDay": "41.93%",
-    "uptimeWeek": "48.13%",
-    "uptimeMonth": "70.07%",
-    "uptimeYear": "70.07%",
+    "uptime": "70.59%",
+    "uptimeDay": "88.69%",
+    "uptimeWeek": "54.02%",
+    "uptimeMonth": "70.59%",
+    "uptimeYear": "70.59%",
     "time": 373,
     "timeDay": 405,
-    "timeWeek": 359,
+    "timeWeek": 364,
     "timeMonth": 373,
     "timeYear": 373,
     "dailyMinutesDown": {
@@ -69,17 +69,19 @@
     "url": "https://api.catacloud.com",
     "icon": "https://favicons.githubusercontent.com/api.catacloud.com",
     "slug": "graph-ql-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 384,
-    "timeDay": 461,
-    "timeWeek": 380,
-    "timeMonth": 384,
-    "timeYear": 384,
-    "dailyMinutesDown": {}
+    "time": 385,
+    "timeDay": 445,
+    "timeWeek": 386,
+    "timeMonth": 385,
+    "timeYear": 385,
+    "dailyMinutesDown": {
+      "2022-01-04": 0
+    }
   }
 ]
