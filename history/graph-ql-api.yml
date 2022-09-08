@@ -1,7 +1,7 @@
 url: https://api.catacloud.com
-status: down
-code: 502
-responseTime: 371
-lastUpdated: 2022-09-08T08:33:27.576Z
+status: up
+code: 200
+responseTime: 594
+lastUpdated: 2022-09-08T08:45:12.811Z
 startTime: Wed Dec 08 2021 20:17:23 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
