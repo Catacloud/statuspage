@@ -8,7 +8,7 @@
     "uptime": "97.86%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.89%",
-    "uptimeMonth": "92.39%",
+    "uptimeMonth": "93.66%",
     "uptimeYear": "97.86%",
     "time": 1107,
     "timeDay": 1161,
@@ -47,9 +47,9 @@
     "url": "https://app.catacloud.com",
     "icon": "https://favicons.githubusercontent.com/app.catacloud.com",
     "slug": "web-app",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -58,7 +58,9 @@
     "timeWeek": 356,
     "timeMonth": 492,
     "timeYear": 384,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-09-21": 0
+    }
   },
   {
     "name": "Identity Server",
