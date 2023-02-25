@@ -11,10 +11,10 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "98.36%",
     "time": 1219,
-    "timeDay": 858,
-    "timeWeek": 946,
-    "timeMonth": 1102,
-    "timeYear": 1280,
+    "timeDay": 1240,
+    "timeWeek": 1015,
+    "timeMonth": 1103,
+    "timeYear": 1281,
     "dailyMinutesDown": {
       "2023-01-25": 20,
       "2022-12-20": 83,
@@ -42,8 +42,7 @@
       "2022-07-15": 480,
       "2022-07-14": 99,
       "2022-05-03": 84,
-      "2022-03-07": 226,
-      "2022-02-25": 206
+      "2022-03-07": 226
     }
   },
   {
@@ -58,9 +57,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 381,
-    "timeDay": 287,
-    "timeWeek": 373,
-    "timeMonth": 356,
+    "timeDay": 206,
+    "timeWeek": 371,
+    "timeMonth": 354,
     "timeYear": 409,
     "dailyMinutesDown": {
       "2022-09-21": 27
@@ -78,8 +77,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 420,
-    "timeDay": 327,
-    "timeWeek": 392,
+    "timeDay": 502,
+    "timeWeek": 419,
     "timeMonth": 431,
     "timeYear": 432,
     "dailyMinutesDown": {}
@@ -91,17 +90,16 @@
     "slug": "graph-ql-api",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.51%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 419,
-    "timeDay": 370,
-    "timeWeek": 396,
+    "timeDay": 438,
+    "timeWeek": 418,
     "timeMonth": 432,
     "timeYear": 430,
     "dailyMinutesDown": {
-      "2023-02-24": 7,
       "2022-03-28": 23
     }
   }
