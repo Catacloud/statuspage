@@ -11,9 +11,9 @@
     "uptimeMonth": "99.06%",
     "uptimeYear": "98.29%",
     "time": 1321,
-    "timeDay": 750,
-    "timeWeek": 1038,
-    "timeMonth": 2136,
+    "timeDay": 1055,
+    "timeWeek": 1072,
+    "timeMonth": 2138,
     "timeYear": 1465,
     "dailyMinutesDown": {
       "2023-04-19": 308,
@@ -62,11 +62,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 375,
-    "timeDay": 205,
-    "timeWeek": 206,
-    "timeMonth": 289,
-    "timeYear": 403,
+    "time": 376,
+    "timeDay": 313,
+    "timeWeek": 236,
+    "timeMonth": 296,
+    "timeYear": 401,
     "dailyMinutesDown": {
       "2022-09-21": 27
     }
@@ -77,14 +77,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/login.catacloud.com.ico",
     "slug": "identity-server",
     "status": "up",
-    "uptime": "98.44%",
+    "uptime": "98.45%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 425,
-    "timeDay": 356,
-    "timeWeek": 466,
+    "timeDay": 463,
+    "timeWeek": 484,
     "timeMonth": 446,
     "timeYear": 444,
     "dailyMinutesDown": {}
@@ -101,10 +101,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 423,
-    "timeDay": 310,
-    "timeWeek": 460,
-    "timeMonth": 445,
-    "timeYear": 441,
+    "timeDay": 446,
+    "timeWeek": 473,
+    "timeMonth": 444,
+    "timeYear": 442,
     "dailyMinutesDown": {}
   }
 ]
