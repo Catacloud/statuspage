@@ -89,19 +89,19 @@
     "url": "https://api.catacloud.com",
     "icon": "https://icons.duckduckgo.com/ip3/api.catacloud.com.ico",
     "slug": "graph-ql-api",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.60%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 440,
-    "timeDay": 462,
-    "timeWeek": 517,
-    "timeMonth": 467,
+    "timeDay": 395,
+    "timeWeek": 493,
+    "timeMonth": 463,
     "timeYear": 442,
     "dailyMinutesDown": {
-      "2023-08-28": 0
+      "2023-08-28": 6
     }
   }
 ]
