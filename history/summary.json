@@ -68,18 +68,20 @@
     "url": "https://login.catacloud.com/.well-known/openid-configuration",
     "icon": "https://icons.duckduckgo.com/ip3/login.catacloud.com.ico",
     "slug": "identity-server",
-    "status": "up",
+    "status": "down",
     "uptime": "98.87%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 444,
-    "timeDay": 597,
-    "timeWeek": 470,
-    "timeMonth": 428,
+    "time": 443,
+    "timeDay": 539,
+    "timeWeek": 472,
+    "timeMonth": 430,
     "timeYear": 443,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-11-01": 0
+    }
   },
   {
     "name": "GraphQL API",
