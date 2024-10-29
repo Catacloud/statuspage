@@ -72,9 +72,9 @@
     "url": "https://api.catacloud.com",
     "icon": "https://icons.duckduckgo.com/ip3/api.catacloud.com.ico",
     "slug": "graph-ql-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -83,6 +83,8 @@
     "timeWeek": 455,
     "timeMonth": 469,
     "timeYear": 451,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-10-29": 0
+    }
   }
 ]
