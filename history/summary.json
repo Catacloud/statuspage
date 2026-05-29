@@ -4,19 +4,20 @@
     "url": "https://www.catacloud.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.catacloud.com.ico",
     "slug": "website",
-    "status": "down",
-    "uptime": "99.41%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.99%",
-    "time": 2828,
-    "timeDay": 1753,
-    "timeWeek": 1668,
-    "timeMonth": 1614,
-    "timeYear": 2630,
+    "status": "up",
+    "uptime": "99.40%",
+    "uptimeDay": "93.96%",
+    "uptimeWeek": "99.14%",
+    "uptimeMonth": "99.80%",
+    "uptimeYear": "99.98%",
+    "time": 2830,
+    "timeDay": 1801,
+    "timeWeek": 1691,
+    "timeMonth": 1622,
+    "timeYear": 2628,
     "dailyMinutesDown": {
-      "2025-11-24": 29
+      "2025-11-24": 29,
+      "2026-05-29": 87
     }
   },
   {
