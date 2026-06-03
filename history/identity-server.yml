@@ -1,7 +1,7 @@
 url: https://login.catacloud.com/.well-known/openid-configuration
 status: up
 code: 200
-responseTime: 546
-lastUpdated: 2026-06-02T23:36:20.410Z
+responseTime: 525
+lastUpdated: 2026-06-03T23:34:41.258Z
 startTime: 2021-12-08T20:17:21.000Z
 generator: Upptime <https://github.com/upptime/upptime>
