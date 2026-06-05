@@ -5,20 +5,21 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.catacloud.com.ico",
     "slug": "website",
     "status": "down",
-    "uptime": "99.41%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.14%",
-    "uptimeMonth": "99.80%",
-    "uptimeYear": "99.98%",
-    "time": 2812,
-    "timeDay": 1783,
-    "timeWeek": 1680,
-    "timeMonth": 1636,
-    "timeYear": 2587,
+    "uptime": "99.37%",
+    "uptimeDay": "41.44%",
+    "uptimeWeek": "90.77%",
+    "uptimeMonth": "97.88%",
+    "uptimeYear": "99.82%",
+    "time": 2810,
+    "timeDay": 0,
+    "timeWeek": 1670,
+    "timeMonth": 1637,
+    "timeYear": 2583,
     "dailyMinutesDown": {
       "2025-11-24": 29,
       "2026-05-29": 87,
-      "2026-06-04": 0
+      "2026-06-05": 75,
+      "2026-06-04": 768
     }
   },
   {
@@ -33,9 +34,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 120,
-    "timeDay": 41,
-    "timeWeek": 131,
-    "timeMonth": 115,
+    "timeDay": 127,
+    "timeWeek": 119,
+    "timeMonth": 114,
     "timeYear": 125,
     "dailyMinutesDown": {}
   },
@@ -51,10 +52,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 487,
-    "timeDay": 525,
-    "timeWeek": 457,
-    "timeMonth": 455,
-    "timeYear": 496,
+    "timeDay": 483,
+    "timeWeek": 449,
+    "timeMonth": 453,
+    "timeYear": 495,
     "dailyMinutesDown": {}
   },
   {
@@ -69,9 +70,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 474,
-    "timeDay": 404,
-    "timeWeek": 424,
-    "timeMonth": 446,
+    "timeDay": 537,
+    "timeWeek": 428,
+    "timeMonth": 447,
     "timeYear": 479,
     "dailyMinutesDown": {}
   }
