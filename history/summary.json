@@ -6,7 +6,7 @@
     "slug": "website",
     "status": "up",
     "uptime": "99.35%",
-    "uptimeDay": "65.93%",
+    "uptimeDay": "81.27%",
     "uptimeWeek": "86.81%",
     "uptimeMonth": "96.77%",
     "uptimeYear": "99.73%",
@@ -45,35 +45,39 @@
     "url": "https://login.catacloud.com/.well-known/openid-configuration",
     "icon": "https://icons.duckduckgo.com/ip3/login.catacloud.com.ico",
     "slug": "identity-server",
-    "status": "up",
+    "status": "down",
     "uptime": "99.51%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.65%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 486,
     "timeDay": 284,
     "timeWeek": 442,
     "timeMonth": 445,
     "timeYear": 495,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-06-06": 5
+    }
   },
   {
     "name": "GraphQL API",
     "url": "https://api.catacloud.com",
     "icon": "https://icons.duckduckgo.com/ip3/api.catacloud.com.ico",
     "slug": "graph-ql-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 474,
+    "time": 475,
     "timeDay": 445,
     "timeWeek": 441,
     "timeMonth": 446,
     "timeYear": 479,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-06-06": 0
+    }
   }
 ]
